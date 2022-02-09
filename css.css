@@ -83,3 +83,24 @@ a{
 	padding:10px;
 	padding-right:200px;
 }
+#Turqoise{
+	background-color:#4db6ac;
+}
+#Red{
+	background-color:#e57373;
+}
+#Green{
+	background-color:#81c784;
+}
+#Chrysolite{
+	background-color:#aed581;
+}
+#Blue{
+	background-color:#4fc3f7;
+}
+#Gray{
+	background-color:#90a4ae;
+}
+div{
+	margin-top:100px;
+}
